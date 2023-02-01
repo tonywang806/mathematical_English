@@ -68,12 +68,13 @@ remainder 余数<br>
 Add/plus 加 <br>
 subtract 减 <br>
 Multiply / times 乘<br>
- divide 除<br>
+divide 除<br>
 divisible 可被整除的<br>
 divided evenly 被整除<br>
 dividend 被除数，红利 <br>
 factorial 阶乘 <br>
 power 乘方<br>
+modulo 求模<br>
 radical /root sign 根号<br>
 decimal fraction 纯小数<br>
 infinite decimal 无穷小数 <br>
